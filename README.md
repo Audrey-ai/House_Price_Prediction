@@ -1,5 +1,5 @@
 # House_Price_Prediction
-This aim of this project is to be able to create a model that would allow the company to accurately predict the sale of prices upon being provided with the predictor variables.
+Hass Consulting Company which is a real estate leader with over 25 years of experience and our reasearch focus is to create a model that would allow the company to accurately predict the sale of prices upon being provided with the predictor variables.
 
 # Description
 The real estate market plays a very important role in any economy. It is known to have a dramatic multiplier effect and is a key economic indicator. The real estate market has
